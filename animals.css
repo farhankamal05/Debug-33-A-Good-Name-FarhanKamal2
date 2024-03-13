@@ -1,0 +1,22 @@
+ /* Full credit to code.org for task */
+
+/* I have added a custom background color and heavily modify the p class */
+
+body {
+  background-color: #94ff94;
+}
+
+p {
+  color: #299900;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+h1 {
+  color: green;
+  font-family: courior, monospace;
+}
+img{
+  width: 150px;
+}
+
